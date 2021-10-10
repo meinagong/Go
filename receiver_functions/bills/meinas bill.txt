@@ -1,0 +1,5 @@
+Bill breakdown: 
+veg stew:                 ...$6.99 
+toffee pudding:           ...$5.25 
+tip:                      ...$7
+total:                    ...$19.24
